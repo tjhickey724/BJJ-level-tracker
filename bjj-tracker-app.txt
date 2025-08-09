@@ -1,5 +1,4 @@
-}
-```
+
 
 ### Dashboard Page (pages/dashboard.js)
 ```javascript
